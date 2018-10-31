@@ -1,3 +1,9 @@
+/*
+*API DE RTVE HECHA EN JAVESCRIPT
+*AUTOR:ANGLEL J. GUIDET GOMEZ
+*ULTIMA MODIFICACION:31/10/2018
+*/
+
 $(document).ready(Start())
 
 function Start() {
